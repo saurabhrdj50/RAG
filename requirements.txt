@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+langchain_community
+chromadb
+sentence-transformers
+pypdf
+pdfplumber
+google-generativeai
+pyngrok
